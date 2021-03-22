@@ -1,0 +1,22 @@
+{
+  "name": "@brianmmdev/discordlogger",
+  "version": "1.0.0",
+  "description": "A package that streamlines logging from Node projects to a Discord Webhook",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorrisondev/discordlogger.git"
+  },
+  "author": "Brian Morrison II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmorrisondev/discordlogger/issues"
+  },
+  "homepage": "https://github.com/bmorrisondev/discordlogger#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
